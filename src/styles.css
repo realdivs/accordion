@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.title {
+  text-align: center;
+  color: rgb(83, 156, 10);
+}
+
+.accordion {
+  border: 2px solid rgb(29, 124, 11);
+  margin: 0.5rem 0px;
+  padding: 0.5rem;
+  background-color: rgb(242, 255, 226);
+  border-radius: 10px;
+  position: relative;
+}
+
+span {
+  position: absolute;
+  right: 0.5rem;
+  cursor: pointer;
+}
